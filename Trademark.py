@@ -26,7 +26,7 @@ def teliflimi(firma_ismi,ulke):
     cevap = 0
     
     if(int(sonuc) == 0 ):
-        print("Bu ürün telifli değil amk")
+        print("Bu ürün telifli değil")
         cevap = 1
     else:
         print("Sakın bu ürünü yükleme")
